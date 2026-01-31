@@ -1,6 +1,4 @@
-# Project
-All projiect I have done
-1. Ứng dụng quản lý đơn đặt hàng trực tuyến (Queue).
+# Ứng dụng quản lý đơn đặt hàng trực tuyến (Queue).
 Mỗi đơn hàng gồm các thông tin: ngày tạo, mã đơn hàng, tổng tiền, tên khách hàng, trạng thái xử lí ( chờ phê duyệt, đã duyệt, huỷ, hoàn thành.
 Các thành phần trong bài:
  + Tạo, xoá, xem đơn hàng.
